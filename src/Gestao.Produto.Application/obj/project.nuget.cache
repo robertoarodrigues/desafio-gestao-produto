@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FvG5Cmh6aD9FNW2SfD06bFRYAo8jAK0TKgA5QtD2mXBOwhGVoTXqTAufDNvUB/HEqdLNHzY1cHpij3nPwUy+Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Sources\\desafio-gestao-produto\\src\\Gestao.Produto.Application\\Gestao.Produto.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

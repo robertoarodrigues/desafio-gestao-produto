@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+jPfJdcRhSivAHqkdGalPxDsWlRMRY9mFb2Dy/1Xgi5RTE9/vbISKtKVXXFqsF37lYM+A8Wld8w7aB4TZcm4Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Sources\\desafio-gestao-produto\\src\\Gestao.Produto.Core\\Gestao.Produto.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

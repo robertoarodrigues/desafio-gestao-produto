@@ -1,0 +1,12 @@
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Core\bin\Debug\net5.0\Gestao.Produto.Core.deps.json
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Core\bin\Debug\net5.0\Gestao.Produto.Core.dll
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Core\bin\Debug\net5.0\Gestao.Produto.Core.pdb
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Core\obj\Debug\net5.0\Gestao.Produto.Core.csproj.AssemblyReference.cache
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Core\obj\Debug\net5.0\Gestao.Produto.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Core\obj\Debug\net5.0\Gestao.Produto.Core.AssemblyInfoInputs.cache
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Core\obj\Debug\net5.0\Gestao.Produto.Core.AssemblyInfo.cs
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Core\obj\Debug\net5.0\Gestao.Produto.Core.csproj.CoreCompileInputs.cache
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Core\obj\Debug\net5.0\Gestao.Produto.Core.dll
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Core\obj\Debug\net5.0\refint\Gestao.Produto.Core.dll
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Core\obj\Debug\net5.0\Gestao.Produto.Core.pdb
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Core\obj\Debug\net5.0\ref\Gestao.Produto.Core.dll

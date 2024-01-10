@@ -1,0 +1,15 @@
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\obj\Debug\net5.0\Gestao.Produto.Domain.csproj.AssemblyReference.cache
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\obj\Debug\net5.0\Gestao.Produto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\obj\Debug\net5.0\Gestao.Produto.Domain.AssemblyInfoInputs.cache
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\obj\Debug\net5.0\Gestao.Produto.Domain.AssemblyInfo.cs
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\obj\Debug\net5.0\Gestao.Produto.Domain.csproj.CoreCompileInputs.cache
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\bin\Debug\net5.0\Gestao.Produto.Domain.deps.json
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\bin\Debug\net5.0\Gestao.Produto.Domain.dll
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\bin\Debug\net5.0\Gestao.Produto.Domain.pdb
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\bin\Debug\net5.0\Gestao.Produto.Core.dll
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\bin\Debug\net5.0\Gestao.Produto.Core.pdb
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\obj\Debug\net5.0\Gestao.Produto.Domain.csproj.CopyComplete
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\obj\Debug\net5.0\Gestao.Produto.Domain.dll
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\obj\Debug\net5.0\refint\Gestao.Produto.Domain.dll
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\obj\Debug\net5.0\Gestao.Produto.Domain.pdb
+C:\Sources\Autoglass.Desafio\src\Gestao.Produto.Domain\obj\Debug\net5.0\ref\Gestao.Produto.Domain.dll
